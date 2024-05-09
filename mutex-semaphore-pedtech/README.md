@@ -4,7 +4,7 @@
 This file contains the mutex implementation for exclusive access to a special tutorial video.
 
 **2. semaphore_example.py**
-This file manages the semaphore-based synchronization for watching video tutorials with limited concurrency.
+This file manages the semaphore-based synchronization for watching video tutorials with limited concurrency. Here, the concurrency is specified as 5.
 
 **3. main.py**
 This file serves as the entry point and lets you choose which example to run.
