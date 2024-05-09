@@ -1,18 +1,20 @@
 **Program Guide**
-1. mutex_example.py
+
+**1. mutex_example.py**
 This file contains the mutex implementation for exclusive access to a special tutorial video.
 
-2. semaphore_example.py
+**2. semaphore_example.py**
 This file manages the semaphore-based synchronization for watching video tutorials with limited concurrency.
 
-3. main.py
+**3. main.py**
 This file serves as the entry point and lets you choose which example to run.
 
 To run either the mutex or semaphore example, execute main.py. The user will be prompted to choose which synchronization example to run. Each file is thoroughly commented to explain the logic and function calls, enhancing readability and maintainability.
 
-**Sample Output 
-Mutex:**
-'''
+**Output:**
+
+**Mutex:**
+```
 Choose an example to run:
 1: Mutex Example
 2: Semaphore Example
@@ -47,10 +49,9 @@ Student 9 is watching the special video.
 Student 9 finished watching the special video.
 Student 10 is watching the special video.
 Student 10 finished watching the special video.
-'''
-
+```
 **Semaphore:**
-'''
+```
 Choose an example to run:
 1: Mutex Example
 2: Semaphore Example
@@ -85,4 +86,4 @@ Student 9 finished watching the video.
 Student 8 finished watching the video.
 Student 10 finished watching the video.
 Student 5 finished watching the video.
-'''
+```
