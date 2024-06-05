@@ -22,4 +22,4 @@ Screenshots of the demo
 ![image](https://github.com/VSrihariMoorthy/Multithreading/assets/119066846/a6d3ed81-17a9-4084-880a-ee3265e3b848)
 ![image](https://github.com/VSrihariMoorthy/Multithreading/assets/119066846/01772ba2-dd69-4df5-8db4-971d4174ee7c)
 
-Note: The class files (.class) compiled already are uploaded.
+Note: The already compiled class files (.class) are uploaded.
