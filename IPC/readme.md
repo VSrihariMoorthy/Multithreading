@@ -16,3 +16,8 @@ javac StudentClient.java
 ```
 java StudentClient
 ```
+You can send your submissions now as a Student!!
+
+Screenshots of the demo
+![image](https://github.com/VSrihariMoorthy/Multithreading/assets/119066846/01772ba2-dd69-4df5-8db4-971d4174ee7c)
+![image](https://github.com/VSrihariMoorthy/Multithreading/assets/119066846/a6d3ed81-17a9-4084-880a-ee3265e3b848)
